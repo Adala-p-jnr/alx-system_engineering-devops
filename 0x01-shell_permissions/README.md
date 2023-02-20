@@ -5,3 +5,4 @@
 4. script that creates an empty file
 5. script that executes permissions to the owner
 6. script that adds execute permissions to the owner and the group owner
+7. adds execution permission to the owner, the group owner and the other users
