@@ -2,3 +2,4 @@
 1. prints the effective user name of current user
 2. prints all groups the current user is part of
 3. changes owner from hello to user betty
+4. script that creates an empty file
