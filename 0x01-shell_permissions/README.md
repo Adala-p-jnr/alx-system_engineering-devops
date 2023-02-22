@@ -7,3 +7,4 @@
 6. script that adds execute permissions to the owner and the group owner
 7. adds execution permission to the owner, the group owner and the other users
 8. script that sets permission to the file hello
+9. script that changes the mode of the file hello
