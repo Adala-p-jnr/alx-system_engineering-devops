@@ -5,3 +5,4 @@
 4. 4-global variables
 5. 5-local_variables
 6. 6-local variable
+7. 7-global variable
