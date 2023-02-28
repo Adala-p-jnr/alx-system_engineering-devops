@@ -6,3 +6,5 @@
 5. 5-local_variables
 6. 6-local variable
 7. 7-global variable
+8. Every addition to true knowledge is an addition to human power
+9. Divide and rule
