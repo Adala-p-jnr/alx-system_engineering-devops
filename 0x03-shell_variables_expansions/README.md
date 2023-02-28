@@ -8,3 +8,7 @@
 7. 7-global variable
 8. Every addition to true knowledge is an addition to human power
 9. Divide and rule
+10. Love is anterior to life
+11. There are 10 types of people in the world 
+12. Combination
+13. Floats
